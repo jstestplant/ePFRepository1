@@ -2,10 +2,10 @@
 <statistics>
  <script name="TestGit">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>4</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
   <FirstRun>2016-05-16 14:42:27 -0600</FirstRun>
-  <LastRun>2016-05-16 14:43:37 -0600</LastRun>
+  <LastRun>2016-05-16 14:47:28 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
 </statistics>

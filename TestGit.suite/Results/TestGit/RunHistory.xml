@@ -51,4 +51,43 @@ Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or
   <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
 Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2016-05-16 14:46:50.102 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002695</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144650.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-16 14:47:10.162 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002692</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144710.162/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-16 14:47:28.071 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003008</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144728.071/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
+ </run>
 </runHistory>
