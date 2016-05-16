@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="oldTestGit">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-05-16 14:56:40 -0600</FirstRun>
-  <LastRun>2016-05-16 14:56:40 -0600</LastRun>
-  <TotalTimeOnSuccess>0.152357</TotalTimeOnSuccess>
- </script>
  <script name="TestGit">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>10</NumberOfRuns>
