@@ -1,6 +1,7 @@
 ﻿//Simply testing the GitHub repository
 
+//Add comment
 
 repeat with each digit  in 1 to 5
- put digit
+	put digit
 end repeat
