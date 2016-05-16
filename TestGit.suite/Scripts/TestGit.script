@@ -1,0 +1,4 @@
+﻿//Simply testing the GitHub repository
+
+while x < 10
+log x
