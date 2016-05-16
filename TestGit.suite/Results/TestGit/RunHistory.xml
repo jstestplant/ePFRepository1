@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TestGit">
+ <run>
+  <RunDate>2016-05-16 14:42:27.942 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.156392</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144227.942/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;while&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-16 14:42:59.565 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002824</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144259.565/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-16 14:43:11.391 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002733</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144311.391/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-16 14:43:37.307 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002593</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160516_144337.307/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in testgit:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
+ </run>
+</runHistory>

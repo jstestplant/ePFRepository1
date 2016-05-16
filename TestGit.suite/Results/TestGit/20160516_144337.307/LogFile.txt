@@ -1,0 +1,3 @@
+﻿2016-05-16 14:43:37.308 -0600	START		Running TestGit.script
+2016-05-16 14:43:37.311 -0600	EndTestCase		(Duration:"0.000861", Errors:"1", Exceptions:"0", StartTime:"2016-05-16 14:43:37 -0600", Successes:"0", TestCase:"TestGit.script", Warnings:"0")
+2016-05-16 14:43:37.315 -0600	FAILURE		SenseTalk Compiler Exception in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53 -- Execution Time 0:00:00 TestGit.script

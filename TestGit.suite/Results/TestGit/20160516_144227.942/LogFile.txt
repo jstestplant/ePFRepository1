@@ -1,0 +1,3 @@
+﻿2016-05-16 14:42:27.946 -0600	START		Running TestGit.script
+2016-05-16 14:42:28.102 -0600	EndTestCase		(Duration:"0.149209", Errors:"1", Exceptions:"0", StartTime:"2016-05-16 14:42:27 -0600", Successes:"0", TestCase:"TestGit.script", Warnings:"0")
+2016-05-16 14:42:28.109 -0600	FAILURE		STUnknownMessage ERROR: No Such Command: 'while' -- Execution Time 0:00:00 TestGit.script

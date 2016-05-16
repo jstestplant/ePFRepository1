@@ -1,4 +1,6 @@
 ﻿//Simply testing the GitHub repository
 
-while x < 10
-log x
+
+repeat with each digit 1 to 5
+ put digit
+end repeat

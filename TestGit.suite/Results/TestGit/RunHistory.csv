@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-16 14:42:27.942 -0600,"Failure",0:00:00,1,0,0,"20160516_144227.942/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'while'",0
+2016-05-16 14:42:59.565 -0600,"Failure",0:00:00,1,0,0,"20160516_144259.565/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
+2016-05-16 14:43:11.391 -0600,"Failure",0:00:00,1,0,0,"20160516_144311.391/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
+2016-05-16 14:43:37.307 -0600,"Failure",0:00:00,1,0,0,"20160516_144337.307/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
