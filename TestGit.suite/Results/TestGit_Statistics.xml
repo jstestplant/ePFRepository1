@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0"?>
 <statistics>
  <script name="TestGit">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>7</NumberOfRuns>
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
   <NumberOfFails>7</NumberOfFails>
   <FirstRun>2016-05-16 14:42:27 -0600</FirstRun>
-  <LastRun>2016-05-16 14:47:28 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <LastRun>2016-05-16 14:47:51 -0600</LastRun>
+  <TotalTimeOnSuccess>0.323979</TotalTimeOnSuccess>
  </script>
 </statistics>
