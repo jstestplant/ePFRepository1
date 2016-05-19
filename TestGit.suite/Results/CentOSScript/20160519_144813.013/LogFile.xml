@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CentOSScript.script" package="TestGit.suite" timestamp="2016-05-19 14:48:13.013 -0600"
+ tests="1" successes="1" errors="0" time="0.280510">
+  <properties>
+   <property name="RunDate" value="2016-05-19 14:48:13.013 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="CentOSScript.script" assertions="1" successes="1" errors="0" time="0.273735">
+  </testcase>
+ </testsuite>
+</testsuites>
