@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Win7Script">
+ <run>
+  <RunDate>2016-05-20 09:07:59.059 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.546000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160520_090759.059/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
