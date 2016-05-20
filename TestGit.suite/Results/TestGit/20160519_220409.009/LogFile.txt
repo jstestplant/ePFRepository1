@@ -1,0 +1,3 @@
+﻿2016-05-19 22:04:09.009 -0600	START		Running TestGit.script
+2016-05-19 22:04:10.010 -0600	EndTestCase		(Duration:"0.509", Errors:"0", Exceptions:"0", StartTime:"2016-05-19 22:04:09 -0600", Successes:"1", TestCase:"TestGit.script", Warnings:"0")
+2016-05-19 22:04:10.010 -0600	SUCCESS		Execution Time 0:00:01 TestGit.script
