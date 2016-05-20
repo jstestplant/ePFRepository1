@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="TestGit">
  <run>
-  <RunDate>2016-05-16 14:42:27.942 -0600</RunDate>
+  <RunDate>2016-05-16 14:42:27.027 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.156392</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -13,9 +13,9 @@
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;while&#x27;</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:42:59.565 -0600</RunDate>
+  <RunDate>2016-05-16 14:42:59.059 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.002824</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -26,9 +26,9 @@
 Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:43:11.391 -0600</RunDate>
+  <RunDate>2016-05-16 14:43:11.011 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.002733</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -39,9 +39,9 @@ Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or
 Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:43:37.307 -0600</RunDate>
+  <RunDate>2016-05-16 14:43:37.037 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.002593</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -52,9 +52,9 @@ Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or
 Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or near character 53</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:46:50.102 -0600</RunDate>
+  <RunDate>2016-05-16 14:46:50.050 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.002695</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -65,9 +65,9 @@ Syntax Error at line 3: Syntax Error - can&#x27;t understand [end of line] at or
 Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:47:10.162 -0600</RunDate>
+  <RunDate>2016-05-16 14:47:10.010 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.002692</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -78,9 +78,9 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
 Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:47:28.071 -0600</RunDate>
+  <RunDate>2016-05-16 14:47:28.028 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.003008</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -91,9 +91,9 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
 Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or near character 64</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:47:51.374 -0600</RunDate>
+  <RunDate>2016-05-16 14:47:51.051 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.323979</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -103,9 +103,9 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:53:12.724 -0600</RunDate>
+  <RunDate>2016-05-16 14:53:12.012 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.333834</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -115,9 +115,9 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 14:53:42.362 -0600</RunDate>
+  <RunDate>2016-05-16 14:53:42.042 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.254470</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -127,9 +127,9 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-05-16 15:06:25.945 -0600</RunDate>
+  <RunDate>2016-05-16 15:06:25.025 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.276711</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -141,7 +141,7 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
  <run>
   <RunDate>2016-05-18 16:56:47.047 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.281583</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -150,15 +150,27 @@ Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;1&quot; at or
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-05-19 22:04:09.009 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.532000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
   <LogFile>20160519_220409.009/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-19 22:08:08.008 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160519_220808.008/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

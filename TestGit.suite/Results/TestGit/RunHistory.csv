@@ -1,14 +1,15 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-05-16 14:42:27.942 -0600,"Failure",0:00:00,1,0,0,"20160516_144227.942/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'while'",0
-2016-05-16 14:42:59.565 -0600,"Failure",0:00:00,1,0,0,"20160516_144259.565/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
-2016-05-16 14:43:11.391 -0600,"Failure",0:00:00,1,0,0,"20160516_144311.391/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
-2016-05-16 14:43:37.307 -0600,"Failure",0:00:00,1,0,0,"20160516_144337.307/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
-2016-05-16 14:46:50.102 -0600,"Failure",0:00:00,1,0,0,"20160516_144650.102/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
-2016-05-16 14:47:10.162 -0600,"Failure",0:00:00,1,0,0,"20160516_144710.162/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
-2016-05-16 14:47:28.071 -0600,"Failure",0:00:00,1,0,0,"20160516_144728.071/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
-2016-05-16 14:47:51.374 -0600,"Success",0:00:00,0,0,0,"20160516_144751.374/LogFile.txt","","",1
-2016-05-16 14:53:12.724 -0600,"Success",0:00:00,0,0,0,"20160516_145312.724/LogFile.txt","","",1
-2016-05-16 14:53:42.362 -0600,"Success",0:00:00,0,0,0,"20160516_145342.362/LogFile.txt","","",1
-2016-05-16 15:06:25.945 -0600,"Success",0:00:00,0,0,0,"20160516_150625.945/LogFile.txt","","",1
+2016-05-16 14:42:27.027 -0600,"Failure",0:00:00,1,0,0,"20160516_144227.942/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'while'",0
+2016-05-16 14:42:59.059 -0600,"Failure",0:00:00,1,0,0,"20160516_144259.565/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
+2016-05-16 14:43:11.011 -0600,"Failure",0:00:00,1,0,0,"20160516_144311.391/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
+2016-05-16 14:43:37.037 -0600,"Failure",0:00:00,1,0,0,"20160516_144337.307/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 3: Syntax Error - can't understand [end of line] at or near character 53",0
+2016-05-16 14:46:50.050 -0600,"Failure",0:00:00,1,0,0,"20160516_144650.102/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
+2016-05-16 14:47:10.010 -0600,"Failure",0:00:00,1,0,0,"20160516_144710.162/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
+2016-05-16 14:47:28.028 -0600,"Failure",0:00:00,1,0,0,"20160516_144728.071/LogFile.txt","","SenseTalk Compiler Exception -- in testgit:\nSyntax Error at line 4: Syntax Error - can't understand ""1"" at or near character 64",0
+2016-05-16 14:47:51.051 -0600,"Success",0:00:00,0,0,0,"20160516_144751.374/LogFile.txt","","",1
+2016-05-16 14:53:12.012 -0600,"Success",0:00:00,0,0,0,"20160516_145312.724/LogFile.txt","","",1
+2016-05-16 14:53:42.042 -0600,"Success",0:00:00,0,0,0,"20160516_145342.362/LogFile.txt","","",1
+2016-05-16 15:06:25.025 -0600,"Success",0:00:00,0,0,0,"20160516_150625.945/LogFile.txt","","",1
 2016-05-18 16:56:47.047 -0600,"Success",0:00:00,0,0,0,"20160518_165647.047/LogFile.txt","","",1
 2016-05-19 22:04:09.009 -0600,"Success",0:00:00,0,0,0,"20160519_220409.009/LogFile.txt","","",1
+2016-05-19 22:08:08.008 -0600,"Success",0:00:00,0,0,0,"20160519_220808.008/LogFile.txt","","",1
