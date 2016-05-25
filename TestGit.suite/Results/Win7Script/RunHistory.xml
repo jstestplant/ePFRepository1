@@ -24,4 +24,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-05-24 21:41:43.043 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.178000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160524_214143.043/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

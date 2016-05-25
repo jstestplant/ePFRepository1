@@ -1,15 +1,1 @@
-<<<<<<< HEAD
 ﻿{EPVersionNumber = 1605241435; Schedules = (); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
-=======
-﻿{
-    EPVersionNumber = 1605240215;
-    Schedules =     (
-    );
-    ScriptMetaData =     {
-    };
-    helpedSuitesInfo =     (
-    );
-    helperSuitesInfo =     (
-    );
-}
->>>>>>> 51e02e6074183671f43be1e7cbcd2b2a42310bcd
