@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="CentOSScript">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-05-19 14:48:13 -0600</FirstRun>
-  <LastRun>2016-05-19 14:48:13 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
  <script name="Win7Script">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>3</NumberOfRuns>
@@ -22,6 +14,22 @@
   <NumberOfFails>7</NumberOfFails>
   <FirstRun>2016-05-16 14:42:27 -0600</FirstRun>
   <LastRun>2016-05-19 22:08:08 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="MacScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-25 12:56:55 -0600</FirstRun>
+  <LastRun>2016-05-25 12:56:55 -0600</LastRun>
+  <TotalTimeOnSuccess>0.490000</TotalTimeOnSuccess>
+ </script>
+ <script name="CentOSScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-19 14:48:13 -0600</FirstRun>
+  <LastRun>2016-05-19 14:48:13 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
 </statistics>
