@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="MacScript">
+ <run>
+  <RunDate>2016-05-25 13:50:19.052 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.127128</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160525_135019.052/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

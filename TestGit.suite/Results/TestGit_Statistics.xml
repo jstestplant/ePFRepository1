@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="CentOSScript">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-05-19 14:48:13 -0600</FirstRun>
-  <LastRun>2016-05-19 14:48:13 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
  <script name="Win7Script">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>3</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-05-20 11:06:58 -0600</FirstRun>
   <LastRun>2016-05-24 22:04:19 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="CentOSScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-19 14:48:13 -0600</FirstRun>
+  <LastRun>2016-05-19 14:48:13 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="TestGit">
@@ -23,5 +23,13 @@
   <FirstRun>2016-05-16 14:42:27 -0600</FirstRun>
   <LastRun>2016-05-19 22:08:08 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="MacScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-25 13:50:19 -0600</FirstRun>
+  <LastRun>2016-05-25 13:50:19 -0600</LastRun>
+  <TotalTimeOnSuccess>0.127128</TotalTimeOnSuccess>
  </script>
 </statistics>

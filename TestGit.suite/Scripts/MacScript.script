@@ -11,3 +11,5 @@ log "Let's try a Save > Commit"
 
 //Test git scm on Mac 5-24
 // Trying another commit with git on Mac
+
+//Let's try a change in our new checked out repos
