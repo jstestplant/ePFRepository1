@@ -2,4 +2,13 @@
 
 //Test git scm on Mac 5-24
 
+<<<<<<< HEAD
 log "Let's make a change on Mac in Git"
+=======
+//Let's try another
+
+log "Let's try another  commit all"
+
+
+log "Let's try a Save > Commit"
+>>>>>>> 97b471352765cef5edf496a5c27549f199d944e1

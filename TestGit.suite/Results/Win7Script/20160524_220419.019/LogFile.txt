@@ -1,0 +1,5 @@
+﻿2016-05-24 22:04:19.019 -0600	START		Running Win7Script.script
+2016-05-24 22:04:19.019 -0600	Log		This is a test...	3	on_win7script	Win7Script.script
+2016-05-24 22:04:19.019 -0600	Log		we want this to run	7	on_win7script	Win7Script.script
+2016-05-24 22:04:19.019 -0600	EndTestCase		(Duration:"0.451", Errors:"0", Exceptions:"0", StartTime:"2016-05-24 22:04:19 -0600", Successes:"1", TestCase:"Win7Script.script", Warnings:"0")
+2016-05-24 22:04:19.019 -0600	SUCCESS		Execution Time 0:00:00 Win7Script.script
