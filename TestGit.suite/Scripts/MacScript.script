@@ -1,3 +1,5 @@
 ﻿//Added this script from Mac 5-18
 
 //Test git scm on Mac 5-24
+
+log "Let's make a change on Mac in Git"
