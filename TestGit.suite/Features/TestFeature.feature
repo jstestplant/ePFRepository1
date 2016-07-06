@@ -1,6 +1,6 @@
 ﻿Feature: This is a test feature
 
-  Scenario:
+  Scenario: Feature Scenario test
     Given
     When
     Then

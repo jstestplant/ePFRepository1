@@ -10,11 +10,11 @@
  </script>
  <script name="CentOSScript">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfRuns>2</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-05-19 14:48:13 -0600</FirstRun>
-  <LastRun>2016-05-19 14:48:13 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <LastRun>2016-07-05 22:42:45 -0600</LastRun>
+  <TotalTimeOnSuccess>0.218811</TotalTimeOnSuccess>
  </script>
  <script name="TestGit">
   <LastStatus>Success</LastStatus>
@@ -26,10 +26,10 @@
  </script>
  <script name="MacScript">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfRuns>2</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-05-25 13:50:19 -0600</FirstRun>
-  <LastRun>2016-05-25 13:50:19 -0600</LastRun>
-  <TotalTimeOnSuccess>0.127128</TotalTimeOnSuccess>
+  <LastRun>2016-07-05 22:42:45 -0600</LastRun>
+  <TotalTimeOnSuccess>0.287099</TotalTimeOnSuccess>
  </script>
 </statistics>

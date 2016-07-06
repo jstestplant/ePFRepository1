@@ -2,13 +2,18 @@
     EPVersionNumber = 1607051959;
     Schedules =     (
                 {
-            ChangeCount = 2;
+            ChangeCount = 4;
             Name = "Schedule 1";
             Schedule =             (
                                 {
                     Num = 1;
                     Run = YES;
                     Script = "CentOSScript.script";
+                },
+                                {
+                    Num = 3;
+                    Run = YES;
+                    Script = "MacScript.script";
                 }
             );
         }
