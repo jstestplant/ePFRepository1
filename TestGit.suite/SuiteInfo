@@ -1,6 +1,17 @@
 ﻿{
-    EPVersionNumber = 1605250216;
+    EPVersionNumber = 1607051959;
     Schedules =     (
+                {
+            ChangeCount = 2;
+            Name = "Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "CentOSScript.script";
+                }
+            );
+        }
     );
     ScriptMetaData =     {
     };

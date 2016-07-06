@@ -1,5 +1,6 @@
 <?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
 <Lines>
 <Line><Action>ReadText</Action><Arguments>"[@Image Name]"</Arguments><ExpectedValueExpression>This is a test</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"FireFox"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
 </Lines>
 </TableScript>
