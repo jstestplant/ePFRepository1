@@ -1,0 +1,1 @@
+﻿{EPVersionNumber = 1607080356; Schedules = ({ChangeCount = 5; Name = TestSchedule1; Schedule = ({Num = 4; Run = YES; Script = "TestScript.script"; }); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
