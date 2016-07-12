@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+﻿{EPVersionNumber = 1607120442; Schedules = ({ChangeCount = 4; Name = "Schedule 1"; Schedule = ({Num = 1; Run = YES; Script = "CentOSScript.script"; }, {Num = 3; Run = YES; Script = "MacScript.script"; }); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
+=======
 ﻿{EPVersionNumber = 1607080356; Schedules = ({ChangeCount = 4; Name = "Schedule 1"; Schedule = ({Num = 1; Run = YES; Script = "CentOSScript.script"; }, {Num = 3; Run = YES; Script = "MacScript.script"; }); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
+>>>>>>> d8edf05fce88387821b8b42fe70d47aa8dfeb5ca
