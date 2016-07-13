@@ -1,0 +1,2 @@
+The purpose of this file is to verify that a text file can be loaded and read.
+The script read the text file successfully!
