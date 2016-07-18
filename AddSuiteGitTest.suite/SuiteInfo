@@ -1,1 +1,17 @@
-﻿{EPVersionNumber = 1607131337; Schedules = ({ChangeCount = 0; Name = "Schedule 1"; Schedule = (); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{
+    EPVersionNumber = 1607140319;
+    Schedules =     (
+                {
+            ChangeCount = 0;
+            Name = "Schedule 1";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}
