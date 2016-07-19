@@ -1,1 +1,21 @@
+<<<<<<< HEAD
+﻿{
+    EPVersionNumber = 1607140319;
+    Schedules =     (
+                {
+            ChangeCount = 0;
+            Name = "Schedule 1";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}
+=======
 ﻿{EPVersionNumber = 1607181242; Schedules = ({ChangeCount = 0; Name = "Schedule 1"; Schedule = (); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
+>>>>>>> 10a381127cb759fe1fdc972d3be293409c181462
