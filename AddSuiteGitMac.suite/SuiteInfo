@@ -1,1 +1,25 @@
-﻿{EPVersionNumber = 1607141034; Schedules = ({ChangeCount = 2; Name = "Schedule 1"; Schedule = ({Num = 1; Run = YES; Script = "Untitled.script"; }); }); ScriptMetaData = {}; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{
+    EPVersionNumber = 1611090912;
+    Schedules =     (
+                {
+            ChangeCount = 2;
+            Name = "Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "Untitled.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/testplant/Documents/Suites/github/Suite2.suite";
+        }
+    );
+}
